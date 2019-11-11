@@ -1,0 +1,19 @@
+{
+  "name": "homebridge-azure-switch",
+  "version": "0.0.0",
+  "description": "MeasureBridge.HomeBridgePlugin",
+  "main": "index.js",
+  "author": {
+    "name": "Pawel Skaruz"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "dependencies": {
+    "azure-iothub": "^1.10.0"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ]
+}
